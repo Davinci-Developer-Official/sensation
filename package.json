@@ -1,0 +1,26 @@
+{
+  "name": "test-project",
+  "version": "1.0.0",
+  "description": "test application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github.com/Davinci-Developer-Official.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "glitext interns",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/github.com/Davinci-Developer-Official/issues"
+  },
+  "homepage": "https://github.com/github.com/Davinci-Developer-Official#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "node": "^17.7.2"
+  }
+}

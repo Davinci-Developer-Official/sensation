@@ -1,0 +1,2 @@
+  THIS FILE EXCLUSIVELY STORES USER DATA ie user-name,uuid,time of login,password and admin response.
+if any other data is stored it will impede the integrity of this files thus a delete request should be passed.
